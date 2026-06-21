@@ -1,1 +1,1 @@
-Product service
+Product service for ecommerce platform
